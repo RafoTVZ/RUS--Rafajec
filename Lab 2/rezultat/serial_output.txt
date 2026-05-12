@@ -1,0 +1,94 @@
+ESP32 Datalogger
+
+--------------------------------
+Ciklus #: 1
+Prvo pokretanje / reset
+Aktivna faza rada...
+Mjerenje 1: T=22.70C H=46.50%
+Ulazak u LIGHT SLEEP...
+Buđenje iz LIGHT SLEEP-a
+
+--------------------------------
+Ciklus #: 2
+Buđenje: TIMER (Light Sleep)
+Aktivna faza rada...
+Mjerenje 2: T=23.40C H=48.00%
+Ulazak u LIGHT SLEEP...
+Buđenje iz LIGHT SLEEP-a
+
+--------------------------------
+Ciklus #: 3
+Buđenje: TIMER (Light Sleep)
+Aktivna faza rada...
+Mjerenje 3: T=24.10C H=49.50%
+Ulazak u LIGHT SLEEP...
+Buđenje iz LIGHT SLEEP-a
+
+--------------------------------
+Ciklus #: 4
+Buđenje: TIMER (Light Sleep)
+Aktivna faza rada...
+Mjerenje 4: T=24.80C H=51.00%
+Ulazak u LIGHT SLEEP...
+Buđenje iz LIGHT SLEEP-a
+
+--------------------------------
+Ciklus #: 5
+Buđenje: TIMER (Light Sleep)
+Aktivna faza rada...
+Mjerenje 5: T=25.50C H=52.50%
+Ulazak u LIGHT SLEEP...
+Buđenje iz LIGHT SLEEP-a
+
+--------------------------------
+Ciklus #: 6
+Buđenje: TIMER (Light Sleep)
+Aktivna faza rada...
+Mjerenje 6: T=22.00C H=54.00%
+Ulazak u LIGHT SLEEP...
+Buđenje iz LIGHT SLEEP-a
+
+--------------------------------
+Ciklus #: 7
+Buđenje: TIMER (Light Sleep)
+Aktivna faza rada...
+Mjerenje 7: T=22.70C H=55.50%
+Ulazak u LIGHT SLEEP...
+Buđenje iz LIGHT SLEEP-a
+
+--------------------------------
+Ciklus #: 8
+Buđenje: TIMER (Light Sleep)
+Aktivna faza rada...
+Mjerenje 8: T=23.40C H=45.00%
+Ulazak u LIGHT SLEEP...
+Buđenje iz LIGHT SLEEP-a
+
+--------------------------------
+Ciklus #: 9
+Buđenje: TIMER (Light Sleep)
+Aktivna faza rada...
+Mjerenje 9: T=24.10C H=46.50%
+Ulazak u LIGHT SLEEP...
+Buđenje iz LIGHT SLEEP-a
+
+--------------------------------
+Ciklus #: 10
+Buđenje: TIMER (Light Sleep)
+Aktivna faza rada...
+Mjerenje 10: T=24.80C H=48.00%
+
+===== 10 MJERENJA =====
+1. wake #1 T=22.70 H=46.50
+2. wake #2 T=23.40 H=48.00
+3. wake #3 T=24.10 H=49.50
+4. wake #4 T=24.80 H=51.00
+5. wake #5 T=25.50 H=52.50
+6. wake #6 T=22.00 H=54.00
+7. wake #7 T=22.70 H=55.50
+8. wake #8 T=23.40 H=45.00
+9. wake #9 T=24.10 H=46.50
+10. wake #10 T=24.80 H=48.00
+=======================
+
+Ulazak u LIGHT SLEEP...
