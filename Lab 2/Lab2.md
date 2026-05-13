@@ -20,8 +20,7 @@ Ovaj projekt implementira ESP32 datalogger koji periodički mjeri temperaturu i 
 ---
 
 ## 🔗 Wokwi simulacija
-https://wokwi.com/projects/463810458448253953   ← OVDJE STAVI SVOJ LINK
-
+https://wokwi.com/projects/463810458448253953
 ---
 
 ## Napomena
