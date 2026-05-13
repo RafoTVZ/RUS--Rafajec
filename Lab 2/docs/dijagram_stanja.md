@@ -4,20 +4,22 @@
 
 @startuml
 
+[*] --> ACTIVE
+
 state ACTIVE {
-  :mjerenje temperature;
-  :mjerenje vlage;
-  :spremanje podataka;
+  ACTIVE : mjerenje temperature
+  ACTIVE : mjerenje vlage
+  ACTIVE : spremanje podataka
 }
 
 state SLEEP {
-  :Light Sleep (10s);
-  :timer wake-up;
+  SLEEP : Light Sleep (10s)
+  SLEEP : timer wake-up
 }
 
 state WAKE {
-  :nastavak rada;
-  :RTC memorija aktivna;
+  WAKE : nastavak rada
+  WAKE : RTC memorija aktivna
 }
 
 ACTIVE --> SLEEP : kraj ciklusa
