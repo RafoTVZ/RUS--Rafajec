@@ -25,8 +25,7 @@ Sustav ima vrlo nizak duty cycle:
 - aktivno stanje: ~10–15%
 - sleep stanje: ~85–90%
 
-Zaključak:
-➡ većina vremena sustav provodi u niskopotrošnom stanju
+Zaključak: većinu vremena sustav provodi u niskopotrošnom stanju
 
 ---
 
